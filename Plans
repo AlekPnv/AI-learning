@@ -1,0 +1,159 @@
+100 Python projects, cleanly scaled from very easy → very hard, designed to *force* you to learn new concepts naturally.
+---
+
+# 🟢 LEVEL 1 — Basics (1–20)
+
+*Variables, loops, conditionals, input/output*
+
+1. Number guessing game
+2. Simple calculator
+3. Dice simulator
+4. Temperature converter
+5. Password strength checker
+6. Even/odd checker
+7. Countdown timer
+8. Random quote generator
+9. Multiplication table generator
+10. Rock–Paper–Scissors
+11. Username validator
+12. Prime number checker
+13. Simple interest calculator
+14. Word counter
+15. Palindrome checker
+16. To-do list (console)
+17. Email slicer
+18. Random name picker
+19. ATM simulator
+20. Unit converter
+
+---
+
+# 🟡 LEVEL 2 — Data Structures (21–40)
+
+*Lists, dicts, sets, functions*
+
+21. Contact book
+22. Student grade manager
+23. Quiz game
+24. Shopping cart system
+25. Password manager (local)
+26. Voting system
+27. Movie recommendation (rule-based)
+28. File sorter
+29. Word frequency counter
+30. Expense tracker
+31. Simple inventory system
+32. Address book
+33. Random password generator
+34. Simple chatbot (rule-based)
+35. Phone number formatter
+36. Scoreboard system
+37. Library management system
+38. URL shortener (logic only)
+39. Resume parser (text-based)
+40. Command-line calendar
+
+---
+
+# 🟠 LEVEL 3 — Functions & Files (41–55)
+
+*Files, modular code, error handling*
+
+41. Text-based RPG
+42. Notes app (save/load)
+43. Log file analyzer
+44. CSV data analyzer
+45. Backup script
+46. Password cracker (brute-force demo)
+47. Email sender script
+48. Config file reader
+49. Random story generator
+50. File encryption tool
+51. Quiz app with file storage
+52. Dictionary app
+53. Simple compiler/interpreter
+54. Chat history logger
+55. File-based search engine
+
+---
+
+# 🔵 LEVEL 4 — OOP (56–70)
+
+*Classes, inheritance, design*
+
+56. Bank account system
+57. Game character class system
+58. Car rental system
+59. Online store simulation
+60. Employee management system
+61. Turn-based battle system
+62. Chess board representation
+63. Inventory system (OOP)
+64. RPG combat engine
+65. School management software
+66. Simulation of a social network
+67. Ticket booking system
+68. Elevator simulation
+69. Strategy game units system
+70. Plugin-based app architecture
+
+---
+
+# 🟣 LEVEL 5 — Intermediate / Games (71–85)
+
+*Algorithms, logic, performance*
+
+71. Snake game (Pygame)
+72. Pong game
+73. Maze generator + solver
+74. Pathfinding visualizer (A*)
+75. Physics engine basics
+76. Game AI (rule-based)
+77. Turn-based strategy game
+78. Procedural world generator
+79. Sudoku solver
+80. Chess engine (basic)
+81. Tetris clone
+82. Multiplayer game (local)
+83. Reaction time tester
+84. Aim trainer
+85. Game replay system
+
+---
+
+# 🔴 LEVEL 6 — Advanced / Real Systems (86–100)
+
+*Architecture, performance, AI-ready*
+
+86. Command-line shell
+87. Mini operating system simulator
+88. Web scraper framework
+89. REST API (FastAPI)
+90. Game engine core
+91. Reinforcement learning environment
+92. Physics-based simulation
+93. AI bot framework
+94. Neural network from scratch
+95. Monte Carlo simulation system
+96. Distributed task scheduler
+97. Search engine prototype
+98. Real-time strategy AI
+99. Minecraft-style sandbox engine
+100. Full game AI platform
+
+---
+
+# ⚠️ HOW TO USE THIS LIST (IMPORTANT)
+
+### Rule 1
+Don’t skip. Difficulty compounds.
+
+### Rule 2
+Each project → GitHub commit.
+
+### Rule 3
+If stuck → break the project into **mini-features**.
+
+### Rule 4
+Finish ugly projects. Don’t restart.
+
