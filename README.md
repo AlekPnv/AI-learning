@@ -1,7 +1,7 @@
 # AI-learning
 
 Who you are?
-Alek Penev 18 yr
+Alek - 18 yr
 
 Goal of the repo?
 Prep work for Uni
