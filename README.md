@@ -1,4 +1,4 @@
-# AI-learning
+# Learn to Code
 
 Who you are?
 Alek - 18 yr
