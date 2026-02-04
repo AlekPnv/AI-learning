@@ -14,7 +14,7 @@ def dice_simulator():
             print("Dice must have at least 2 sides and rolls must be positive.\n")
             continue
             
-        # --- Simulation
+        # --- Simulation ---
         possible_nums = [num+1 for num in range(dice_sides)] # all the numbers up to the wished sides of dice - 6 sides = 6 numbers
         results = {num: 0 for num in possible_nums} # num: 0... instead (num for num in possible_nums): 0
         # or just -> results = {num: 0 for num in range(1, dice_sides + 1)}
@@ -28,7 +28,7 @@ def dice_simulator():
         for k, v in results.items(): # iterate through the keys and values of the dictionary
             print(f"{k} -> {v} {'time' if v == 1 else 'times'}")
 
-        most_common_roll = max(results, key=results.get)
+        most_common_roll = max(results, key=results.get) # type: ignore
         print(f"\nMost common roll: {most_common_roll}")
         
         # --- Repeat ---
