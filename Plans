@@ -1,9 +1,8 @@
-100 Python projects, cleanly scaled from very easy → very hard, designed to *force* you to learn new concepts naturally.
----
+## 100 Python projects, cleanly scaled from very easy → very hard, designed to _force_ you to learn new concepts naturally.
 
 # 🟢 LEVEL 1 — Basics (1–20)
 
-*Variables, loops, conditionals, input/output*
+_Variables, loops, conditionals, input/output_
 
 1. Number guessing game
 2. Simple calculator
@@ -30,34 +29,34 @@
 
 # 🟡 LEVEL 2 — Data Structures (21–40)
 
-*Lists, dicts, sets, functions*
+_Lists, dicts, sets, functions_
 
-21. Contact book
-22. Student grade manager
-23. Quiz game
-24. Shopping cart system
-25. Password manager (local)
-26. Voting system
-27. Movie recommendation (rule-based)
-28. File sorter
-29. Word frequency counter
-30. Expense tracker
-31. Simple inventory system
-32. Address book
-33. Random password generator
-34. Simple chatbot (rule-based)
-35. Phone number formatter
-36. Scoreboard system
-37. Library management system
-38. URL shortener (logic only)
-39. Resume parser (text-based)
-40. Command-line calendar
+21. Word frequency counter
+22. Phone number formatter
+23. Random password generator
+24. Scoreboard system
+25. Quiz game
+26. Contact book
+27. Student grade manager
+28. Expense tracker
+29. Shopping cart system
+30. Voting system
+31. Movie recommendation (rule-based)
+32. Simple inventory system
+33. Library management system
+34. URL shortener (logic only)
+35. File sorter
+36. Resume parser (text-based)
+37. Command-line calendar
+38. Simple chatbot (rule-based)
+39. Adress book (enhanced version)
+40. Password manager (local)
 
 ---
 
 # 🟠 LEVEL 3 — Functions & Files (41–55)
 
-*Files, modular code, error handling*
+_Files, modular code, error handling_
 
 41. Text-based RPG
 42. Notes app (save/load)
@@ -79,7 +78,7 @@
 
 # 🔵 LEVEL 4 — OOP (56–70)
 
-*Classes, inheritance, design*
+_Classes, inheritance, design_
 
 56. Bank account system
 57. Game character class system
@@ -101,12 +100,12 @@
 
 # 🟣 LEVEL 5 — Intermediate / Games (71–85)
 
-*Algorithms, logic, performance*
+_Algorithms, logic, performance_
 
 71. Snake game (Pygame)
 72. Pong game
 73. Maze generator + solver
-74. Pathfinding visualizer (A*)
+74. Pathfinding visualizer (A\*)
 75. Physics engine basics
 76. Game AI (rule-based)
 77. Turn-based strategy game
@@ -123,7 +122,7 @@
 
 # 🔴 LEVEL 6 — Advanced / Real Systems (86–100)
 
-*Architecture, performance, AI-ready*
+_Architecture, performance, AI-ready_
 
 86. Command-line shell
 87. Mini operating system simulator
@@ -139,21 +138,24 @@
 97. Search engine prototype
 98. Real-time strategy AI
 99. Minecraft-style sandbox engine
-100. Full game AI platform
+100.  Full game AI platform
 
 ---
 
 # ⚠️ HOW TO USE THIS LIST (IMPORTANT)
 
 ### Rule 1
+
 Don’t skip. Difficulty compounds.
 
 ### Rule 2
+
 Each project → GitHub commit.
 
 ### Rule 3
+
 If stuck → break the project into **mini-features**.
 
 ### Rule 4
-Finish ugly projects. Don’t restart.
 
+Finish ugly projects. Don’t restart.
