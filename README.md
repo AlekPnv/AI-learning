@@ -10,4 +10,4 @@ What phases you’ve completed?
 Basics
 
 How to run code?
-You can't without doing it yourself ;)
+Just Copy and Paste the finished Code or do it yourself ;)
