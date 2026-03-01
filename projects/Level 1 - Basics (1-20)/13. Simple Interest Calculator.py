@@ -17,7 +17,7 @@ def get_values(prompt) -> float:
 def calculate_interest(amount: float, rate: float, time: float) -> tuple[float, float]:
     interest = (amount * rate * time) / 100
     total_amount = amount + interest
-    return interest, total_amount  # fixed: was returning (total_amount, interest) — swapped
+    return interest, total_amount
 
 
 def main():
