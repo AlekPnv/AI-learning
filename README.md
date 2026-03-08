@@ -17,7 +17,7 @@ Goal: build a strong foundation before starting university, by completing 100 pr
 | Level | Topic | Projects | Status |
 |-------|-------|----------|--------|
 | 🟢 Level 1 | Basics — variables, loops, I/O | 1–20 | ✅ Complete |
-| 🟡 Level 2 | Data Structures — lists, dicts, functions | 21–40 | 🔜 Up next |
+| 🟡 Level 2 | Data Structures — lists, dicts, functions | 21–40 | 🔄 In Progress |
 | 🟠 Level 3 | Files & Error Handling | 41–55 | ⏳ Planned |
 | 🔵 Level 4 | OOP — classes, inheritance | 56–70 | ⏳ Planned |
 | 🟣 Level 5 | Algorithms & Games | 71–85 | ⏳ Planned |
@@ -25,7 +25,7 @@ Goal: build a strong foundation before starting university, by completing 100 pr
 
 ---
 
-## 🟢 Level 1 — Basics (1–20)
+## 🟢 Level 1 — Basics (1–20) ✅
 
 > Variables, loops, conditionals, input/output, basic error handling
 
@@ -54,13 +54,42 @@ Goal: build a strong foundation before starting university, by completing 100 pr
 
 ---
 
+## 🟡 Level 2 — Data Structures (21–40) 🔄
+
+> Lists, dicts, sets, functions
+
+| # | Project | Key Concepts |
+|---|---------|--------------|
+| 21 | Word Frequency Counter | dicts, `str.maketrans`, `string.punctuation` |
+| 22 | Phone Number Formatter | ⏳ |
+| 23 | Random Password Generator | ⏳ |
+| 24 | Scoreboard System | ⏳ |
+| 25 | Quiz Game | ⏳ |
+| 26 | Contact Book | ⏳ |
+| 27 | Student Grade Manager | ⏳ |
+| 28 | Expense Tracker | ⏳ |
+| 29 | Shopping Cart System | ⏳ |
+| 30 | Voting System | ⏳ |
+| 31 | Movie Recommendation (rule-based) | ⏳ |
+| 32 | Simple Inventory System | ⏳ |
+| 33 | Library Management System | ⏳ |
+| 34 | URL Shortener (logic only) | ⏳ |
+| 35 | File Sorter | ⏳ |
+| 36 | Resume Parser (text-based) | ⏳ |
+| 37 | Command-line Calendar | ⏳ |
+| 38 | Simple Chatbot (rule-based) | ⏳ |
+| 39 | Address Book (enhanced) | ⏳ |
+| 40 | Password Manager (local) | ⏳ |
+
+---
+
 ## 🚀 How to Run
 
 **Requirements:** Python 3.10+
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/AI-learning.git
+git clone https://github.com/AlekPnv/AI-learning.git
 cd AI-learning
 
 # Install dependencies (only needed for project 5)
@@ -87,7 +116,7 @@ python "projects/Level 1 - Basics (1-20)/1. Number Guessing Game.py"
 AI-learning/
 ├── projects/
 │   ├── Level 1 - Basics (1-20)/
-│   ├── Level 2 - Data Structures (21-40)/   ← coming soon
+│   ├── Level 2 - Data Structures (21-40)/
 │   └── ...
 ├── Plans          ← full 100-project roadmap
 └── README.md
